@@ -1,0 +1,5 @@
+app:
+  name: wconn
+other:
+  some: 192.168.0.139
+  value: 4242
